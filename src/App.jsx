@@ -5,6 +5,8 @@ import Project from "./component/Project";
 import Skill from "./component/Skill";
 
 function App() {
+ 
+
   return (
     <>
       <About />

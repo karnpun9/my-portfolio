@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <>
-      <footer id="footer" className="mt-10 bg-[#191919] px-8 py-10 lg:py-10 lg:p-0 w-full">
+      <footer className="mt-10 bg-[#191919] px-8 py-10 lg:py-10 lg:p-0 w-full">
         <section className="container flex flex-col w-full lg:pl-20">
           <div className="lg:w-5/6">
             <h1 className="text-2xl font-bold text-white mb-4">Contact</h1>
