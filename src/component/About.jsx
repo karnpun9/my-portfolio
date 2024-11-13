@@ -1,4 +1,5 @@
 import React from "react";
+import { TypeAnimation } from "react-type-animation";
 
 function About() {
   return (
@@ -20,7 +21,15 @@ function About() {
             I create apps
           </h1>
           <h2 className="text-white font-bold text-2xl lg:text-6xl">
-            and bring code <span className="linear-purple">to life!</span>
+            and bring code {""}
+            <TypeAnimation
+              sequence={["to life!", 1000, "to reality!", 1000, "with passion!", 1000,]}
+              smartBackspace
+              showCursor={false}
+              speed={50}
+              repeat={Infinity}
+              className="linear-purple"
+            />
           </h2>
         </div>
 
