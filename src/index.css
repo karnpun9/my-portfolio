@@ -1,3 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+  
+}
+
+.body-background {
+  @apply relative h-screen w-full bg-[#161513];
+}
+
+.body-background::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: linear-gradient(to right, #4f4f4f2e 1px, transparent 1px),
+    linear-gradient(to bottom, #4f4f4f2e 1px, transparent 1px);
+  background-size: 14px 24px;
+  mask-image: radial-gradient(
+    ellipse 60% 50% at 50% 0%,
+    #161513 70%,
+    transparent 100%
+  );
+  z-index: -1;
+}
+
+.intouch-btn {
+  @apply mx-6 text-[#161513] bg-white rounded-full py-2 px-3 lg:px-4 font-semibold text-sm  lg:hover:bg-[#161513] lg:text-base lg:hover:text-white lg:hover:border-2 lg:hover:border-white 
+}
+
+.linear-gradient-text {
+  background: linear-gradient(to bottom, #FDFDFD 0%, rgba(255, 255, 255, 0.18) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.linear-purple {
+  background: linear-gradient(to bottom, #FF8660 0%, #9A33FF 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.linear-orange {
+  background: linear-gradient(to bottom, #FF8660 0%, #D5491D 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.linear-blue {
+  background: linear-gradient(to bottom, #5BADFF 0%, #1373D1 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.sub-text {
+  @apply text-[#C5C5C5]
+}
+.icon {
+  @apply text-[#C5C5C5] lg:text-6xl lg:px-6 text-3xl px-3
+}
