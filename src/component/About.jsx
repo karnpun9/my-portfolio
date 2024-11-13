@@ -34,9 +34,9 @@ function About() {
           </p>
         </div>
         <div className="flex justify-center my-10">
-          <button className="intouch-btn">
+          <a href="#footer" className="intouch-btn">
             Get in Touch
-          </button>
+          </a>
           <a
             href="/public/CV Junior dev Karn.pdf"
             download="cv_karn.pdf"

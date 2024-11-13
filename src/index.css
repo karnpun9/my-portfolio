@@ -10,6 +10,10 @@ body {
   
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .body-background {
   @apply relative h-screen w-full bg-[#161513];
 }
