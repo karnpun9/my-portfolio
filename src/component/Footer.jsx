@@ -26,8 +26,8 @@ function Footer() {
             </h2>
           </div>
           <div className="mt-4 text-center lg:text-left text-2xl">
-          <a href="https://www.linkedin.com/in/chayada-punsombut-a82084239/"><i class="fa-brands fa-linkedin linear-gradient-text mr-4"></i></a>
-          <a href="https://github.com/karnpun9"><i class="fa-brands fa-github linear-gradient-text"></i></a>
+          <a href="https://www.linkedin.com/in/chayada-punsombut-a82084239/" target="_blank"><i class="fa-brands fa-linkedin linear-gradient-text mr-4"></i></a>
+          <a href="https://github.com/karnpun9" target="_blank"><i class="fa-brands fa-github linear-gradient-text"></i></a>
         </div>
         </section>
         

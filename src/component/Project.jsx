@@ -9,6 +9,7 @@ function Project() {
       <section className="flex flex-col lg:flex-row justify-center px-6 lg:px-10">
         <a
           href="https://t-rax-black-hole.vercel.app/"
+          target="_blank"
           className="bg-[#2A2A2A] rounded-lg mb-6 lg:mb-0 lg:hover:scale-110 duration-300 lg:mr-6"
         >
           <img
