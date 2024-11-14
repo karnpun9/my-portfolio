@@ -15,11 +15,22 @@ function Footer() {
             </span>
           </div>
           <div className="mt-4 flex flex-col lg:flex-row lg:gap-x-6 gap-2">
-            <h2 className="sub-text"><i class="fa-solid fa-location-dot mr-5"></i>Bangkok Thailand</h2>
-            <h2 className="sub-text"><i class="fa-solid fa-phone mr-5"></i>Phone : (+66) 92-963-2446</h2>
-            <h2 className="sub-text"><i class="fa-solid fa-envelope mr-5"></i>chayada.pun9@gmail.com</h2>
+            <h2 className="sub-text">
+              <i class="fa-solid fa-location-dot mr-5"></i>Bangkok Thailand
+            </h2>
+            <h2 className="sub-text">
+              <i class="fa-solid fa-phone mr-5"></i>Phone : (+66) 92-963-2446
+            </h2>
+            <h2 className="sub-text">
+              <i class="fa-solid fa-envelope mr-5"></i>chayada.pun9@gmail.com
+            </h2>
           </div>
+          <div className="mt-4 text-center lg:text-left text-2xl">
+          <a href="https://www.linkedin.com/in/chayada-punsombut-a82084239/"><i class="fa-brands fa-linkedin linear-gradient-text mr-4"></i></a>
+          <a href="https://github.com/karnpun9"><i class="fa-brands fa-github linear-gradient-text"></i></a>
+        </div>
         </section>
+        
       </footer>
     </>
   );
