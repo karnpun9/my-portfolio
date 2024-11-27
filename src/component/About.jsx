@@ -47,7 +47,7 @@ function About() {
             Get in Touch
           </button> */}
           <a
-            href="https://drive.google.com/file/d/1hDQJfYDsy6W849HImo-eLR60ot_WVF4p/view?usp=sharing"
+            href="https://drive.google.com/file/d/1VjRBIvvF3U9a-JyqGarbN77jO0mMzVr-/view?usp=sharing"
             download="cv_karn.pdf"
             className=" text-white text-center text-sm lg:text-base lg:font-semibold py-2 px-3 rounded-full border-2 hover:bg-white hover:text-[#161513] lg:cursor-pointer"
             target="_blank"
