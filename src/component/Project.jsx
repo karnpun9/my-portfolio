@@ -30,10 +30,11 @@ function Project() {
 
         <a
           href="https://main.d3q4edoi2nz8y8.amplifyapp.com/"
+          target="_blank"
           className="bg-[#2A2A2A] rounded-lg mb-6 lg:mb-0 lg:hover:scale-110 duration-300"
         >
           <img
-            src="../assets/react test table.png"
+            src="https://i.postimg.cc/9Q1BXyW7/react-assesment-1-300x.png"
             alt="react-assesment"
             className="rounded-t-lg"
           />
