@@ -29,12 +29,12 @@ function Project() {
         </a>
 
         <a
-          href="#"
+          href="https://main.d3q4edoi2nz8y8.amplifyapp.com/"
           className="bg-[#2A2A2A] rounded-lg mb-6 lg:mb-0 lg:hover:scale-110 duration-300"
         >
           <img
-            src="https://i.postimg.cc/pXb2j09X/mobile-1.png"
-            alt="art-toy-project"
+            src="../assets/react test table.png"
+            alt="react-assesment"
             className="rounded-t-lg"
           />
           <div className="p-4">
