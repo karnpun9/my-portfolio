@@ -41,7 +41,7 @@ function Project() {
           <div className="p-4">
             <p className="sub-text text-sm">CLICK HERE TO VISIT</p>
             <div className="flex justify-between">
-              <h1 className="text-white font-bold text-xl">Mobile web app</h1>
+              <h1 className="text-white font-bold text-xl">Web app</h1>
               <i class="fa-solid fa-arrow-right text-2xl text-white"></i>
             </div>
           </div>
