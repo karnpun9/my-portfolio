@@ -47,8 +47,8 @@ function About() {
             Get in Touch
           </button> */}
           <a
-            href="https://drive.google.com/file/d/16qCVJcq7c6EWcRjC5eyBxrzqRCQzYy4n/view?usp=sharing"
-            download="cv_karn.pdf"
+            href="https://drive.google.com/file/d/1Igm51wAZbSBJaPHA7Ip0nqwPcXQWldJr/view?usp=sharing"
+            download="CV Chayada Junior developer"
             className=" text-white text-center text-sm lg:text-base lg:font-semibold py-2 px-3 rounded-full border-2 hover:bg-white hover:text-[#161513] lg:cursor-pointer"
             target="_blank"
           >
