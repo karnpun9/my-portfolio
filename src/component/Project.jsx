@@ -29,7 +29,7 @@ function Project() {
         </a>
 
         <a
-          href="https://chayadaportfolio.com/"
+          href="https://pethotel.chayadaportfolio.com/"
           target="_blank"
           className="bg-[#2A2A2A] rounded-lg mb-6 lg:mb-0 lg:hover:scale-110 duration-300"
         >
