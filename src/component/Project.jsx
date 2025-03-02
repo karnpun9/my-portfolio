@@ -29,7 +29,7 @@ function Project() {
         </a>
 
         <a
-          href="https://main.d3q4edoi2nz8y8.amplifyapp.com/"
+          href="https://chayadaportfolio.com/"
           target="_blank"
           className="bg-[#2A2A2A] rounded-lg mb-6 lg:mb-0 lg:hover:scale-110 duration-300"
         >
@@ -41,7 +41,7 @@ function Project() {
           <div className="p-4">
             <p className="sub-text text-sm">CLICK HERE TO VISIT</p>
             <div className="flex justify-between">
-              <h1 className="text-white font-bold text-xl">Web app</h1>
+              <h1 className="text-white font-bold text-xl">Pet Hotel Website</h1>
               <i class="fa-solid fa-arrow-right text-2xl text-white"></i>
             </div>
           </div>
