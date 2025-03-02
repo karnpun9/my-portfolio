@@ -34,7 +34,7 @@ function Project() {
           className="bg-[#2A2A2A] rounded-lg mb-6 lg:mb-0 lg:hover:scale-110 duration-300"
         >
           <img
-            src="https://i.postimg.cc/9Q1BXyW7/react-assesment-1-300x.png"
+            src="https://i.postimg.cc/mkPzNgv4/Screenshot-2025-03-02-212442.png"
             alt="react-assesment"
             className="rounded-t-lg"
           />
