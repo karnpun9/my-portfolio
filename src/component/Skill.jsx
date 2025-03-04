@@ -20,7 +20,7 @@ function Skill() {
           <i className="fa-brands fa-figma icon"></i>
           <i className="fa-brands fa-wordpress icon"></i>
           <i className="fa-brands fa-php icon"></i>
-          <i class="fa-brands fa-sass"></i>
+          <i className="fa-brands fa-sass icon"></i>
         </div>
       </section>
     </>
